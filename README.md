@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/nyc-camp/developer.png?label=ready&title=Ready)](https://waffle.io/nyc-camp/developer)
 developer
 =========
 
